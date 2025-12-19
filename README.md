@@ -1,4 +1,4 @@
-# SGDK lua Scripts 2026
+# SGDK lua Scripts 2025-2026
 
 I will add here some simple Lua scripts helping with SGDK our gamedev.
 Hope theses scripts might be a help for you.
